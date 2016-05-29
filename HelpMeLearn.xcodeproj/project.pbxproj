@@ -13,6 +13,7 @@
 		A3E7FD801CFAA7B100D8AABC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3E7FD7F1CFAA7B100D8AABC /* Assets.xcassets */; };
 		A3E7FD831CFAA7B100D8AABC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3E7FD811CFAA7B100D8AABC /* LaunchScreen.storyboard */; };
 		A3E7FD8E1CFAA7B100D8AABC /* HelpMeLearnTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E7FD8D1CFAA7B100D8AABC /* HelpMeLearnTests.swift */; };
+		A3E7FD991CFAE3C800D8AABC /* Score.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E7FD981CFAE3C800D8AABC /* Score.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A3E7FD891CFAA7B100D8AABC /* HelpMeLearnTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelpMeLearnTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3E7FD8D1CFAA7B100D8AABC /* HelpMeLearnTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpMeLearnTests.swift; sourceTree = "<group>"; };
 		A3E7FD8F1CFAA7B100D8AABC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3E7FD981CFAE3C800D8AABC /* Score.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Score.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				A3E7FD781CFAA7B000D8AABC /* AppDelegate.swift */,
 				A3E7FD7A1CFAA7B000D8AABC /* ViewController.swift */,
+				A3E7FD981CFAE3C800D8AABC /* Score.swift */,
 				A3E7FD7C1CFAA7B100D8AABC /* Main.storyboard */,
 				A3E7FD7F1CFAA7B100D8AABC /* Assets.xcassets */,
 				A3E7FD811CFAA7B100D8AABC /* LaunchScreen.storyboard */,
@@ -198,6 +201,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3E7FD7B1CFAA7B000D8AABC /* ViewController.swift in Sources */,
+				A3E7FD991CFAE3C800D8AABC /* Score.swift in Sources */,
 				A3E7FD791CFAA7B000D8AABC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
